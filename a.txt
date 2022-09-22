@@ -11,5 +11,8 @@ def g():
 
 
 
+b = 100
+
+
 def f():
     return a + 12
