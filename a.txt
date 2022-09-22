@@ -4,4 +4,4 @@ def g():
     return a + 2
 
 def f():
-    return a + 3
+    return a + 12
